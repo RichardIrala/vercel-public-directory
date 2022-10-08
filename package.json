@@ -1,0 +1,18 @@
+{
+  "name": "vercel-public-directory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RichardIrala/vercel-public-directory.git",
+  "author": "RichardIrala <richardirala47@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  }
+}
